@@ -1,0 +1,14 @@
+body{
+  color: white;
+  background: black;
+}
+#Button{
+  margin: 2px;
+  height: 100px;
+  width: 100px;
+}
+#output{
+  font-size: 20px;
+  outline-style: solid;
+  outline-width: 2px;
+}
